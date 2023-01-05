@@ -1,0 +1,15 @@
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\bin\Debug\net6.0\Implicit-Explicit.exe
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\bin\Debug\net6.0\Implicit-Explicit.deps.json
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\bin\Debug\net6.0\Implicit-Explicit.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\bin\Debug\net6.0\Implicit-Explicit.dll
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\bin\Debug\net6.0\Implicit-Explicit.pdb
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\Implicit-Explicit.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\Implicit-Explicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\Implicit-Explicit.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\Implicit-Explicit.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\Implicit-Explicit.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\Implicit-Explicit.dll
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\refint\Implicit-Explicit.dll
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\Implicit-Explicit.pdb
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\Implicit-Explicit.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\Implicit-Explicit\Implicit-Explicit\obj\Debug\net6.0\ref\Implicit-Explicit.dll
